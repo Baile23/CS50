@@ -1,0 +1,17 @@
+.active {
+    color: #FFF;
+    background-color: #dc3545!important;
+}
+
+.active:hover {
+    filter: brightness(80%);
+}
+
+.page-link {
+    background-color: #343a40;
+}
+
+nav {
+    color: #dc3545;
+    background-color: #343a40;
+}
