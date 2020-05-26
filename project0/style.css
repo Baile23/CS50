@@ -1,6 +1,21 @@
+div#main {
+    height: 100vh;
+    background-color: #913b7e;
+}
+
 h1 {
     margin: 0;
     padding: 5px;
+    text-align: center;
+    height: auto;
+}
+
+#palpatine {
+    background-color: #913b7e;
+}
+
+#anakin {
+    background-color: orangered;
 }
 
 #background-image {
