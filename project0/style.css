@@ -13,21 +13,12 @@ body {
 
 .box .row.header {
   flex: 0 1 auto;
-  /* The above is shorthand for:
-  flex-grow: 0,
-  flex-shrink: 1,
-  flex-basis: auto
-  */
   margin: 0;
 }
 
 .box .row.content {
   flex: 1 1 auto;
   margin: 0;
-}
-
-.box .row.footer {
-  flex: 0 1 40px;
 }
 
 h1 {
